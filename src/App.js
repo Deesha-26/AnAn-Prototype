@@ -46,7 +46,7 @@ const PHASES = [
         visual: "📚",
         heading: "Initial Training Program",
         zhHeading: "初始培训计划",
-        text: "New volunteers complete a half-day onboarding session covering: An An's mission and approach, how to introduce yourself at the door, how to communicate with elderly residents who may have hearing loss or cognitive decline, cultural sensitivity around immigration fears and government distrust, and basic emergency protocols.",
+        text: "New volunteers complete a half-day onboarding session covering: An An's mission and approach, how to introduce yourself at the door, how to communicate with elderly residents who may have hearing loss or cognitive decline, cultural sensitivity around immigration fears, and basic emergency protocols.",
         showTrainingModules: true,
       },
       {
@@ -80,7 +80,7 @@ const PHASES = [
         visual: "🪪",
         heading: "An An Brand Tools",
         zhHeading: "安安品牌工具",
-        text: "Volunteers carry three things: their An An badge (so residents recognize them through the peephole), the An An Life Card to hand out and explain, and a simple check-in log to record each visit. The panda mascot on everything signals 'this is community, not government' — which is critical for a population that distrusts official institutions.",
+        text: "Volunteers carry three things: their An An badge (so residents recognize them through the peephole), the An An Life Card to hand out and explain, and a simple check-in log to record each visit. The panda mascot on everything signals 'this is a community'",
         showToolkit: true,
       },
       {
